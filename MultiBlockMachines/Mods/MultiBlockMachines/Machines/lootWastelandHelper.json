@@ -1,0 +1,5 @@
+﻿{
+  "SeederBlock": "lootWastelandHelper",
+  "Blueprint": "installation_red_mesa_security",
+  "LayerDelay": "500ms"
+}

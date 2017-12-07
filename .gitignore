@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.vs
+\bin
+\obj
+7dtd-binaries/*.dll
+*.DotSettings.user
